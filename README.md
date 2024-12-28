@@ -127,9 +127,6 @@ This repository provides guidance and resources for managing Azure resources and
 - Clone workflows before making changes to ensure uninterrupted operations.
 - Use descriptive names for tasks and templates to maintain clarity.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Contributions are welcome!
 
 ---
 
